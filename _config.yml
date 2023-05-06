@@ -1,12 +1,12 @@
 # Basic
-title: 北岛向南的老店
-subtitle: 愛してる
-description: 为你，千千万万遍。
+title: Pminimd's Garden
+subtitle: 
+description: talk is cheap, show me the code
 # 头像里面的标题
-avatarTitle: Javef
+avatarTitle: 
 # 头像里面的描述
-avatarDesc: 2018 · 期待
-url: "http://javef.github.io"
+avatarDesc: 2023 · Hoping
+url: "https://pminimd.github.io"
 
 # Comment
 comment:
@@ -24,14 +24,14 @@ comment:
 
 # Social
 social:
-    weibo: 5736541528 
-    github: javef
+    weibo: 
+    github: pminimd
     # twitter: 
-    gplus: 110700564157953759206    #Google+ 的id号
-    mail: nanzhouie@gmail.com
-    flickr: nanzhouie
-    paypal: zhouie
-    music: 426481614    # Netease Cloud Music网易云音乐的ID
+    gplus:     #Google+ 的id号
+    mail: pminimd@gmail.com
+    flickr: 
+    paypal: 
+    music:   # Netease Cloud Music网易云音乐的ID
     
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
